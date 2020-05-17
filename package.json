@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "materialize": "^1.0.0"
+  },
+  "name": "JSPractice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SergeyM705/js.git",
+  "author": "Sergey <deribas@xaker.ru>",
+  "license": "MIT"
+}
